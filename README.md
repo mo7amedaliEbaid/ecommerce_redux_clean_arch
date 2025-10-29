@@ -1,4 +1,4 @@
-## Ecommerce App (Flutter + Redux)
+### Ecommerce App (Flutter + Redux)
 
 Modern Flutter ecommerce demo showcasing clean architecture, Redux state management, typed domain/use cases, and navigation with GoRouter. Data is fetched from the public Fake Store API.
 
