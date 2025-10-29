@@ -87,7 +87,6 @@ Key files
 
 ### APIs
 - Fake Store API: `https://fakestoreapi.com/`
-
 ### Notes
 - Category filtering is client-side against the loaded product list.
 - Error states are rendered as simple `Center(Text('Error'))` placeholders—extend as needed.
