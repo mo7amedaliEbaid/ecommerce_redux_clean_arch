@@ -1,4 +1,4 @@
-import 'package:ecommerece_riverpod/core/router/routers.dart';
+import 'package:ecommerece_redux/core/router/routers.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

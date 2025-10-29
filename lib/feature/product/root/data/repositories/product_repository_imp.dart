@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:ecommerece_riverpod/core/network/request_handler.dart';
+import 'package:ecommerece_redux/core/network/request_handler.dart';
 
 import '../../../../../core/network/error_model.dart';
 import '../../domain/repositories/product_repository.dart';

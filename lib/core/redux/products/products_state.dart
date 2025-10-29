@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:ecommerece_riverpod/feature/product/root/data/models/product_model.dart';
+import 'package:ecommerece_redux/feature/product/root/data/models/product_model.dart';
 
 class ProductsState extends Equatable {
   const ProductsState({

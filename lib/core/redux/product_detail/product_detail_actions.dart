@@ -1,4 +1,4 @@
-import 'package:ecommerece_riverpod/feature/product/root/data/models/product_model.dart';
+import 'package:ecommerece_redux/feature/product/root/data/models/product_model.dart';
 import 'package:redux_thunk/redux_thunk.dart';
 
 import '../../di/di.dart' as di;
