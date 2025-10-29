@@ -92,7 +92,5 @@ Key files
 - Category filtering is client-side against the loaded product list.
 - Error states are rendered as simple `Center(Text('Error'))` placeholders—extend as needed.
 
-### License
-MIT (or your preferred license)
 
 
