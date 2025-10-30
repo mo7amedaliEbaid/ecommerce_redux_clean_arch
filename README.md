@@ -52,27 +52,6 @@ lib/
   main.dart
 ```
 
-### Getting started
-1) Prerequisites
-- Flutter SDK installed and configured
-- iOS: Xcode set up; Android: Android Studio/SDK
-
-2) Install dependencies
-```bash
-flutter pub get
-```
-
-3) Run
-```bash
-# iOS Simulator
-flutter run -d ios
-
-# Android Emulator
-flutter run -d android
-
-# Web (optional)
-flutter run -d chrome
-```
 
 ### How Redux is wired
 - The store is created in `core/redux/store.dart` and provided at the root in `main.dart` via `StoreProvider`.
